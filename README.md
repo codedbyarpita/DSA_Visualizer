@@ -24,10 +24,7 @@ Heap Visualization
 Min Heap demonstration with real-time steps shown using a priority queue.
 Hash Table Operations
 Add, search, and delete key-value pairs using a HashMap.
-
 Trie (Prefix Tree)
-
 Insert words into a Trie.
-
 Visual representation using JTree structure.
 
